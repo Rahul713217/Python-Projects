@@ -1,6 +1,6 @@
 # Rock,Paper,Scissors Game
 print("For Rock type 'r', for Paper type 'p' and for Scissors type 's' ")
-print(" **** you type wrong, you lose due to invaild input")
+print("If you type wrong, you lose due to invaild input")
 import random
 r = random.randint(1,3)
 if r == 1:
